@@ -1,2 +1,3 @@
 # ecmi
-streamlit teste josir
+streamlit teste
+print("hello world")
